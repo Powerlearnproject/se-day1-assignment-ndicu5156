@@ -14,7 +14,7 @@ Identify and describe at least three key milestones in the evolution of software
 The development of programming languages (e.g., Fortran, C).
 The establishment of software engineering as a discipline in the 1960s.
 The advent of structured programming in the 1970s.
-The rise of agile methodologies in the 2000s.
+
 
 List and briefly explain the phases of the Software Development Life Cycle.
   -Requirements: Gathering and documenting user needs and system requirements.
@@ -34,8 +34,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
   - Software Developer: Responsible for writing code and implementing software solutions.
   - Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
   - Project Manager: Oversees the planning, execution, and delivery of software projects.
-  - System Architect: Designs the overall structure and architecture of software systems.
-  - UI/UX Designer: Creates user interfaces and designs user experiences for software applications.
+  
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
